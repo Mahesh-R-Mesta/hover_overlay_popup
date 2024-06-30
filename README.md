@@ -1,7 +1,7 @@
 
 ## Features
 
-A flutter package which will help you to create overlay menu. 🤓🤓
+A flutter package which will help you to create overlay menu. feel free to use code 🤓🤓
 
 ## Getting Started ⚡️
 
@@ -16,4 +16,4 @@ A flutter package which will help you to create overlay menu. 🤓🤓
 ```
 
 ##  information
-It's in a experimental stage, feel free use or contribution to make it better
+It's in a experimental stage, feel free use or contribution or suggest to make it better
