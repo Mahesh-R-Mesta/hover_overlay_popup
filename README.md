@@ -1,40 +1,19 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+A flutter package which will help you to create overlay menu. 🤓🤓
 
 ## Getting Started ⚡️
 
 #### Demo
 
-<!-- <img src="https://raw.githubusercontent.com/adar2378/pin_code_fields/master/demo_media/example.gif" width="320" height="480"> <img src="https://raw.githubusercontent.com/adar2378/pin_code_fields/master/demo_media/paste_android.gif" width="240" height="480"> <img src="https://raw.githubusercontent.com/adar2378/pin_code_fields/master/demo_media/paste_ios.gif" width="240" height="480"> -->
-
+<img src="https://github.com/Mahesh-R-Mesta/hover_overlay_popup/blob/master/demo/ezgif-3-bdb3fcb8c7.gif" width="320" height="480"> <img src="https://github.com/Mahesh-R-Mesta/hover_overlay_popup/blob/master/demo/ezgif-3-1544e305ce.gif" width="240" height="480"> 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
+```yaml
+  hover_overlay_popup:
+    url: "https://github.com/Mahesh-R-Mesta/hover_overlay_popup"
 ```
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+##  information
+It's in a experimental stage, feel free use or contribution to make it better
